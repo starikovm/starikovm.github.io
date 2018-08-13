@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.05f9b8af1b7f02a1200792fd8ba9391c.js"
+  "/precache-manifest.8543e32d65091fa23ce32a3549d4ce79.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "starikovm_portfolio_website"});
