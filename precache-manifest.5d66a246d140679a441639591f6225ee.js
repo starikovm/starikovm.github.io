@@ -4,31 +4,28 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "840e6a44d6caab3dd75b",
-    "url": "/js/chunk-vendors.40d7f50f.js"
+    "revision": "1e8f572ff0eadb28b68a",
+    "url": "/js/chunk-vendors.03bf5927.js"
   },
   {
-    "revision": "3983b0ae2f53bc59bd01",
-    "url": "/js/app.37cd81f1.js"
+    "revision": "94d313906b3079d6bbc1",
+    "url": "/js/app.cccef572.js"
   },
   {
     "revision": "0a499e69b3ab0932ca73",
     "url": "/js/about.a01ed6ec.js"
   },
   {
-    "revision": "39403b4820060d294d3fd0b2f9411b98",
+    "revision": "fec562b180ce9fbfbf0990b0e6741678",
     "url": "/index.html"
   },
   {
-    "revision": "3983b0ae2f53bc59bd01",
+    "revision": "94d313906b3079d6bbc1",
     "url": "/css/app.6d6831e1.css"
   },
   {
     "revision": "653d077300a12f09a69caeea7a8947f8",
     "url": "/browserconfig.xml"
-  },
-  {
-    "url": "/2146a6a297699e1e18b9bc7c904d5f70.png"
   },
   {
     "url": "/12108809f49c49bcdc126dcecc938761.otf"
