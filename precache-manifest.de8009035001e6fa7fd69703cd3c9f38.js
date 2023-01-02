@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6cd874d96ec5be4cbc82",
-    "url": "/css/app.ec5f90a3.css"
+    "revision": "97811b05fcd0a7210fc9",
+    "url": "/css/app.5c68c9f0.css"
   },
   {
-    "revision": "6cd874d96ec5be4cbc82",
-    "url": "/js/app.91a6085e.js"
+    "revision": "97811b05fcd0a7210fc9",
+    "url": "/js/app.6ea5e60a.js"
   },
   {
     "revision": "fefec377f05f58ddd11a",
@@ -20,7 +20,19 @@ self.__precacheManifest = [
     "url": "/img/ava.b680a0b1.jpg"
   },
   {
-    "revision": "ccb5f627b7c415e8e28aa378a36ea813",
+    "revision": "bbededdcd181514e046c8df0882e5421",
+    "url": "/img/mail.bbededdc.svg"
+  },
+  {
+    "revision": "18595416d120b3320257a5134c614ca0",
+    "url": "/img/medium.18595416.svg"
+  },
+  {
+    "revision": "89ad4412d879cfa880182efc20801da5",
+    "url": "/img/linkedin.89ad4412.svg"
+  },
+  {
+    "revision": "7d57b5ccc54d6596bd1bb1bfcb0c8ccc",
     "url": "/index.html"
   },
   {
